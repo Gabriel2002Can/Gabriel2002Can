@@ -22,11 +22,6 @@
 ###
 
 <h1 align="center">Hi, I'm Gabriel Portella 👋</h1>
-
-###
-
-<br clear="both">
-
 <h3 align="center">AI / Machine Learning Engineer | NLP & Ranking Systems | Full-Stack Background</h3>
 
 ###
